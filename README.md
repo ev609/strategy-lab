@@ -7,7 +7,7 @@ engineering — and the honesty — *before* you hire or pay for anything.
 
 > I sell technology, not returns. You configure, test and run your own strategies and you
 > own the risk. These are teaching artifacts, **not** profitable bots and **not** the
-> proprietary strategies. — [ev609.github.io/dev](https://ev609.github.io/dev/)
+> proprietary strategies. — [alfafond.com/dev](https://alfafond.com/dev/)
 
 ## Run it
 
@@ -92,4 +92,4 @@ MIT — see [`LICENSE`](LICENSE). Use it, fork it, learn from it.
 ---
 
 Want this adapted to your venue and your strategy, validated honestly end to end?
-→ [ev609.github.io/dev](https://ev609.github.io/dev/)
+→ [alfafond.com/dev](https://alfafond.com/dev/)
